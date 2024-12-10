@@ -6,13 +6,14 @@
      - Use descriptive commit messages for the changes.
      - Use comments for code that is particualrly hard to figure out
 
-     NOTE: Pull Requests from will also need to be reviewed by minimum two members from the project
+     NOTE: Pull Requests will also need to be reviewed by minimum two members from the project.
+     Where the second members accepts the Pull Request on GitHub 
 -->
 
 
 ## PR template for project group Freedom
 
-## What type of PR is this? (check all applicable options)
+## What type of PR is this? (Check all applicable options with the letter X)
 
 - [ ] Implementation of function
 - [ ] Refactor
@@ -26,8 +27,7 @@
 _Do your best to keep the code coverage percentage at 80% and above, especially when commiting new changes._
 
 - [ ] Yes
-- [ ] No, I/we haven't been able to and this is why: _replace this line with details on why the tests
-      have not been included yet_
+- [ ] No, I/we haven't been able to and this is why: _replace this line with details on   why the tests have not been included yet_
 - [ ] I need help with writing tests (There is absolutely no shame in asking for help!)
 
 
